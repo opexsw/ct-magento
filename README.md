@@ -1,1 +1,1 @@
-# ct-magento code
+# ct-magento
