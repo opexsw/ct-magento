@@ -1,1 +1,1 @@
-# ct-magento cookbook.
+# magento cookbook
