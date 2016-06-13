@@ -1,2 +1,2 @@
-#ct-magento
-#cookbook
+#This is a ct-magento cookbook
+
