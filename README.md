@@ -1,2 +1,1 @@
-## ct-magento
-##
+## ctmagento
